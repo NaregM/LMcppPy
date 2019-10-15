@@ -1,7 +1,7 @@
 #include "linreg.hpp"
 
 LinearRegression::LinearRegression(){}
-LinearRegression::~LinearRegression(){}
+LinearRegression::~LinearRegression(){} 
 
 void LinearRegression::train(Eigen::VectorXd x_, Eigen::VectorXd y_, Eigen::VectorXd sigma_)
 {
