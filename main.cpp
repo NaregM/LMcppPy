@@ -4,7 +4,7 @@
 #include <random>
 #include "linreg.hpp"
 
-using namespace std;
+using namespace std;     
 
 int main()
 {
