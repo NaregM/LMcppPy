@@ -1,6 +1,5 @@
 # LMcppPy
-Simple linear regression using the Eigen library for c++
-\begin{equation}
-$y = \beta_0 + \beta_1 x$
-\end{equation}
-...add more later
+Simple linear regression using the Eigen library for c++.
+"Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms."
+
+In order to run the code type 'make' in the directory where the files are located.
